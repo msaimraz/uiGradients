@@ -21,7 +21,7 @@
 uiGradients is a community contributed collection of beautiful multi-color gradients
 </p>
 
----
+--
 
 &nbsp;
 
